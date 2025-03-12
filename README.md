@@ -1,6 +1,6 @@
 ## this is the sample ransom ware [file encryption] education purpose only
 
-AES encryption all file in current directory
+AES encrypt all file in current directory
 
 compile
 ```
