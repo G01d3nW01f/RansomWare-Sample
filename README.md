@@ -1,6 +1,7 @@
 ## this is the sample ransom ware [file encryption]
 
-education purpose only
+education purpose only!
+
 AES encrypt all file in current directory
 
 this is the sample program taht for testing security programs
