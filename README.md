@@ -4,7 +4,7 @@ education purpose only!
 
 AES encrypt all file in current directory
 
-this is the sample program taht for testing security programs
+this is the sample program that for testing security program to anti ransom ware so on
 
 compile
 ```
